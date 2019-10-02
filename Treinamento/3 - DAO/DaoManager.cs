@@ -16,7 +16,10 @@ namespace Treinamento._3___DAO
 
         public void SetConnectionString()
         {
-            _connection.ConnectionString = @"Data Source=tescon20800-1\sql2016;Initial Catalog = MyBank; User ID = sa; Password=Nddadm!@#$%;Connect Timeout = 30; Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            if (string.IsNullOrEmpty(_connection.ConnectionString))
+            {
+                _connection.ConnectionString = @"Data Source=tescon20800-1\sql2016;Initial Catalog = MyBank; User ID = sa; Password=Nddadm!@#$%;Connect Timeout = 30; Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            }
         }
         
         public void OpenConnection()
@@ -37,7 +40,7 @@ namespace Treinamento._3___DAO
             try
             {
 
-                OpenConnection();
+                    OpenConnection();
 
                 SqlCommand command = new SqlCommand { CommandText = commandText, Connection = _connection };
 
@@ -55,6 +58,7 @@ namespace Treinamento._3___DAO
             {
                 throw e;
             }
+
         }
 
         public DataSet SelectRegisters(string commandText, IEnumerable<SqlParameter> parameters)

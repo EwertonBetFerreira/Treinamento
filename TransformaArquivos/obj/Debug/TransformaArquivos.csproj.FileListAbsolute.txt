@@ -11,3 +11,16 @@ D:\GitHub\Projeto-Banco\TransformaArquivos\obj\Debug\TransformaArquivos.csproj.C
 D:\GitHub\Projeto-Banco\TransformaArquivos\obj\Debug\TransformaArquivos.csproj.CopyComplete
 D:\GitHub\Projeto-Banco\TransformaArquivos\obj\Debug\TransformaArquivos.exe
 D:\GitHub\Projeto-Banco\TransformaArquivos\obj\Debug\TransformaArquivos.pdb
+E:\Projetos\Treinamento\TransformaArquivos\bin\Debug\TransformaArquivos.exe.config
+E:\Projetos\Treinamento\TransformaArquivos\bin\Debug\TransformaArquivos.exe
+E:\Projetos\Treinamento\TransformaArquivos\bin\Debug\TransformaArquivos.pdb
+E:\Projetos\Treinamento\TransformaArquivos\bin\Debug\Newtonsoft.Json.dll
+E:\Projetos\Treinamento\TransformaArquivos\bin\Debug\Treinamento.exe
+E:\Projetos\Treinamento\TransformaArquivos\bin\Debug\Treinamento.pdb
+E:\Projetos\Treinamento\TransformaArquivos\bin\Debug\Treinamento.exe.config
+E:\Projetos\Treinamento\TransformaArquivos\bin\Debug\Newtonsoft.Json.xml
+E:\Projetos\Treinamento\TransformaArquivos\obj\Debug\TransformaArquivos.csprojResolveAssemblyReference.cache
+E:\Projetos\Treinamento\TransformaArquivos\obj\Debug\TransformaArquivos.csproj.CoreCompileInputs.cache
+E:\Projetos\Treinamento\TransformaArquivos\obj\Debug\TransformaArquivos.csproj.CopyComplete
+E:\Projetos\Treinamento\TransformaArquivos\obj\Debug\TransformaArquivos.exe
+E:\Projetos\Treinamento\TransformaArquivos\obj\Debug\TransformaArquivos.pdb

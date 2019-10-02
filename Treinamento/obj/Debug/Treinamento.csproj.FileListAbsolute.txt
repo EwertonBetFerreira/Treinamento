@@ -127,3 +127,16 @@ D:\Projetos\Projeto_Banco\Projeto-Banco\Treinamento\bin\Debug\ControlzEx.xml
 D:\Projetos\Projeto_Banco\Projeto-Banco\Treinamento\bin\Debug\Microsoft.Xaml.Behaviors.xml
 D:\Projetos\Projeto_Banco\Projeto-Banco\Treinamento\obj\Debug\Treinamento.csproj.CopyComplete
 D:\Projetos\Projeto_Banco\Projeto-Banco\Treinamento\obj\Debug\Treinamento.csprojAssemblyReference.cache
+E:\Projetos\Treinamento\Treinamento\bin\Debug\Treinamento.exe.config
+E:\Projetos\Treinamento\Treinamento\bin\Debug\Treinamento.exe
+E:\Projetos\Treinamento\Treinamento\bin\Debug\Treinamento.pdb
+E:\Projetos\Treinamento\Treinamento\bin\Debug\ControlzEx.dll
+E:\Projetos\Treinamento\Treinamento\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Projetos\Treinamento\Treinamento\bin\Debug\ControlzEx.pdb
+E:\Projetos\Treinamento\Treinamento\bin\Debug\ControlzEx.xml
+E:\Projetos\Treinamento\Treinamento\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Projetos\Treinamento\Treinamento\obj\Debug\Treinamento.csprojResolveAssemblyReference.cache
+E:\Projetos\Treinamento\Treinamento\obj\Debug\Treinamento.csproj.CoreCompileInputs.cache
+E:\Projetos\Treinamento\Treinamento\obj\Debug\Treinamento.csproj.CopyComplete
+E:\Projetos\Treinamento\Treinamento\obj\Debug\Treinamento.exe
+E:\Projetos\Treinamento\Treinamento\obj\Debug\Treinamento.pdb

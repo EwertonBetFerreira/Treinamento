@@ -63,7 +63,7 @@ namespace Treinamento._3___DAO.DAOSQL
 
             List<Agencia> results = new List<Agencia>();
 
-            for (int i = 0; i <= ds.Tables[0].Rows[0].ItemArray.Length; i++)
+            for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
             {
                 results.Add(new Agencia(ds.Tables[0].Rows[i].ItemArray[0].ToString(),
                     ds.Tables[0].Rows[i].ItemArray[1].ToString(),

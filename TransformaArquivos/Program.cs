@@ -17,13 +17,29 @@ namespace TransformaArquivos
         static void Main(string[] args)
         {
 
-            METODO1();
+            //METODO1();
             //METODO2();
 
             AgenciaDaoSql sqldao = new AgenciaDaoSql();
 
-            string path = @"C:\Users\marcus.kayser\Desktop\arquivostreinamento\bunda.xml";
+            string path = @"C:\Users\ndduser\Desktop\Arquivos\bunda.json";
+
+
+            Agencia agencia = new Agencia();
+
+
+            agencia.Id = 1;
+            agencia.Codigo = "1212";
+            agencia.Nome = "teste";
+            agencia.NomeCidade = "Lages";
+            agencia.Uf = "SC";
+
+            sqldao.CadastraDados(agencia);
+
             List<Agencia> bunda = sqldao.ListaDados();
+
+            string conteudo = JsonConvert.SerializeObject(bunda);
+            File.WriteAllText(path, conteudo);
 
 
 
